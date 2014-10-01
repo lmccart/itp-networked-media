@@ -1,4 +1,4 @@
 itp-networked-media
 ===================
 
-Repository for ITP Networked Media, Fall 2014
+Repository for ITP Comm Lab: Networked Media, Fall 2014
