@@ -13,7 +13,7 @@ This class is very participatory in nature and discussions will certainly take p
 https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia
 
 
-##Grades
+##Evaluation
 
 Grades will be determined according to the following breakdown:
 * Regular Assignments 40%
@@ -27,12 +27,12 @@ Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-polic
 ###Week 1
 
 Introduction: What is "networked media", Client-Server, Basic HTTP Server, Introduction to HTML and CSS
-Week 1 Notes
+
 Assignments:
-Add your name, preferred email address, and blog URL to the class wiki
-Sign up for the Comm Lab Networked Media Listserv
-Read and respond to Vannevar Bush's As We May Think on your blog.
-Make a work of hypertext art, fiction, or poetry, put it online with a simple HTTP server using Servi and link to it from your blog.
+* Add your name, preferred email address, and blog URL to the class wiki
+* Sign up for the Comm Lab Networked Media Listserv
+* Read and respond to Vannevar Bush's As We May Think on your blog.
+* Make a work of hypertext art, fiction, or poetry, put it online with a simple HTTP server using Servi and link to it from your blog.
 
 ###Week 2
 
