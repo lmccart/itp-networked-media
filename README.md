@@ -8,9 +8,9 @@ The network is one of our most fundamental mediums for interactivity. It makes p
 
 ##Listserv
 
-This class is very participatory in nature and discussions will certainly take place outside of the classroom. Along with the blog, one of the primary vehicles for these discussions (as well as administrative issues) will be the listserv.
+This class is very participatory in nature and discussions will certainly take place outside of the classroom. Along with the blog, one of the primary vehicles for these discussions (as well as administrative issues) will be the listserv / google group:
 
-__Google Group / Mailing List: https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia__
+https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia
 
 
 ##Grades
