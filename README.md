@@ -29,8 +29,8 @@ Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-polic
 * Introduction: What is "networked media", Client-Server, Basic HTTP Server, Introduction to HTML and CSS
 * __Assignment:__
   * Add your name, preferred email address, and blog URL to the class wiki
-  * Sign up for the Comm Lab Networked Media Listserv
-  * Read and respond to Vannevar Bush's As We May Think on your blog.
+  * Sign up for the Comm Lab Networked Media [Listserv](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia)
+  * Read and respond to [Vannevar Bush's As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) on your blog.
   * Make a work of hypertext art, fiction, or poetry, put it online with a simple HTTP server using Servi and link to it from your blog.
 
 ###Week 2
@@ -52,7 +52,7 @@ Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-polic
 * Web Services: AJAX and JSON
 * __Assignment:__
   * Create a page that both takes input from the user and uses data from a JSON feed.
-  * Watch and prepare to discuss Anil Dash's The Web We Lost talk.
+  * Watch and prepare to discuss [Anil Dash's The Web We Lost](http://dashes.com/anil/2012/12/the-web-we-lost.html) talk.
 
 ###Week 5
 
