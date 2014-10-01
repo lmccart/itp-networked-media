@@ -9,3 +9,11 @@ __Google Group / Mailing List: https://groups.google.com/a/itp.nyu.edu/forum/#!f
 
 
 
+##Grades
+
+Grades will be determined according to the following breakdown:
+* Regular Assignments 40%
+* Participation and Attendance 40%
+* Final Project 20%
+
+Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
