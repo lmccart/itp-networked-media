@@ -60,17 +60,16 @@ Watch and prepare to discuss Anil Dash's The Web We Lost talk.
 
 ###Week 5
 
-Server-side JavaScript writing basic HTTP servers with Servi and Node.js
-Data Storage
-Query Strings, GET vs. POST
-Week 5 Notes
-Assignments:
-Create a guestbook or blog posting/display platform using Servi.js
+* Server-side JavaScript writing basic HTTP servers with Servi and Node.js
+* Data Storage
+* Query Strings, GET vs. POST
+* __Assignment__:
+  * Create a guestbook or blog posting/display platform using Servi.js
 
 ###Week 6
 
-WebSockets Realtime interaction in the browser
-Serial Interfacing with the Arduino 
+* WebSockets Realtime interaction in the browser
+* Serial Interfacing with the Arduino 
 
 ###Week 7
 
