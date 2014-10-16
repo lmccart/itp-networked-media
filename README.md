@@ -73,6 +73,10 @@ Class will culminate final projects. You are expected to push your abilities to 
 Final project presentations
 
 
+#Office hours
+* [Resident office hours](https://itp.nyu.edu/inwiki/)
+
+
 #Resources
 
 ###p5.js
