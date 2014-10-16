@@ -71,3 +71,33 @@ Class will culminate final projects. You are expected to push your abilities to 
 ###Week 7
 
 Final project presentations
+
+
+#Resources
+
+###p5.js
+* [p5.js reference](http://p5js.org/reference)
+* [p5.js forum](http://forum.processing.org/two/)
+* [p5.js on GitHub](https://github.com/lmccart/p5.js)
+* [p5.js CDN](http://cdnjs.com/libraries/p5.js)
+
+###Servi.js
+* [servi.js documentation](https://github.com/antiboredom/servi.js/wiki)
+
+###JS Learning / Intro
+* [CodeAcademy: JavaScript](http://www.codecademy.com/tracks/javascript)
+* [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [JavaScript the right way](http://www.jstherightway.org/)
+* [Code School](https://www.codeschool.com/paths/javascript)
+* [JavaScript garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [A re-introduction to JS by Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [JavaScript 101 from JQuery](https://learn.jquery.com/javascript-101/)
+* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do)
+* [Eloquent JavaScript](http://eloquentjavascript.net/contents.html), Marijn Haverbeke
+* [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932), Paul Wilton and Jeremy McPeak
+
+###Tools
+* Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
+* Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
+* Mobile debugging [jsconsole.com](http://jsconsole.com)
+* Sharing code snippets (useful for asking questions): [gist.github.com](http://gist.github.com)
