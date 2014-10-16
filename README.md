@@ -73,11 +73,12 @@ Class will culminate final projects. You are expected to push your abilities to 
 Final project presentations
 
 
-#Office hours
+##Office hours
+* [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy)
 * [Resident office hours](https://itp.nyu.edu/inwiki/)
 
 
-#Resources
+##Resources
 
 ###p5.js
 * [p5.js reference](http://p5js.org/reference)
