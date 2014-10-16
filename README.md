@@ -35,12 +35,12 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###[Week 1](https://github.com/lmccart/itp-networked-media/wiki/Week-1)
 
-* Introduction: What is "networked media", Client-Server, Basic HTTP Server, Introduction to HTML and CSS
-* __Assignment:__
-  * Add your name, preferred email address, and blog URL to the class wiki.
-  * Sign up for the Comm Lab Networked Media [Listserv](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia).
-  * Read and respond to [Vannevar Bush's As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) on your blog.
-  * Make a work of hypertext art, fiction, or poetry, put it online with a simple HTTP server using Servi and link to it from your blog.
+* Course intro, expectations
+* What is "networked media"? 
+* Overview of client-server
+* Creating a basic HTTP server 
+* Introduction to HTML and CSS
+
 
 ###Week 2
 
