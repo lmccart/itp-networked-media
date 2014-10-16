@@ -33,7 +33,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ##Syllabus
 
-###Week 1
+###[Week 1](https://github.com/lmccart/itp-networked-media/wiki/Week-1)
 
 * Introduction: What is "networked media", Client-Server, Basic HTTP Server, Introduction to HTML and CSS
 * __Assignment:__
