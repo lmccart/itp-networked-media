@@ -44,38 +44,30 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 2
 
-* Programming in JavaScript JavaScript Basics with p5.js
-* __Assignment:__
-  * Create an animation using JavaScript and p5.js. Allow the user some ability to interact with the animation. Put it online with a simple HTTP server using Servi and link to it from your blog.
+* Programming in JavaScript 
+* JavaScript basics with p5.js
 
 ###Week 3
 
 * HTML and CSS continued
-* JavaScript Events - Manipulating the Document Object Model
-* __Assignment:__
-  * Create a page advertising an upcoming event at ITP (or one from your imagination). Make it interactive, animated, or otherwise responsive to the user using CSS and the DOM through JavaScript. Put it online and link to it from your blog.
+* JavaScript events - manipulating the Document Object Model
 
 ###Week 4
 
-* HTML Forms
-* Web Services: AJAX and JSON
-* __Assignment:__
-  * Create a page that both takes input from the user and uses data from a JSON feed.
-  * Watch and prepare to discuss [Anil Dash's The Web We Lost](http://dashes.com/anil/2012/12/the-web-we-lost.html) talk.
+* HTML forms
+* Web services: AJAX and JSON
 
 ###Week 5
 
 * Server-side JavaScript writing basic HTTP servers with Servi and Node.js
-* Data Storage
-* Query Strings, GET vs. POST
-* __Assignment:__
-  * Create a guestbook or blog posting/display platform using Servi.js.
+* Data storage
+* Query strings, GET vs. POST
 
 ###Week 6
 
-* WebSockets Realtime interaction in the browser
-* Serial Interfacing with the Arduino 
+* WebSockets realtime interaction in the browser
+* Serial interfacing with the Arduino 
 
 ###Week 7
 
-Final Project Presentations
+Final project presentations
