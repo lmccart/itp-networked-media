@@ -102,6 +102,7 @@ Final project presentations
 * [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932), Paul Wilton and Jeremy McPeak
 
 ###Tools
+* [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
 * Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Mobile debugging [jsconsole.com](http://jsconsole.com)
