@@ -100,6 +100,8 @@ Final project presentations
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do)
 * [Eloquent JavaScript](http://eloquentjavascript.net/contents.html), Marijn Haverbeke
 * [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932), Paul Wilton and Jeremy McPeak
+* [HTML & CSS book](http://www.htmlandcssbook.com/)
+* [JavaScript book](http://www.javascriptbook.com/)
 
 ###Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
