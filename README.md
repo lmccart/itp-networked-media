@@ -33,13 +33,24 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ##Syllabus
 
-###[Week 1](https://github.com/lmccart/itp-networked-media/wiki/Week-1)
+###Week 1: Intro, HTML, CSS, client-server
 
-* Course intro, expectations
-* What is "networked media"? 
-* Overview of client-server
-* Creating a basic HTTP server 
-* Introduction to HTML and CSS
+* Getting started
+  * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
+  * [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
+  * [Tutorial: setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
+  * To write HTML, one of the first things you will need is a text editor. Most operating systems come with this capability built-in (TextEdit on the Mac and Notepad on Windows). While these applications work fine, you will likely find it useful to use a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/), which have line numbering, syntax coloring and other helpful features.
+
+* HTML and CSS
+  * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
+  * [Intro to CSS]()
+  * **Reference:**
+    * Mozilla HTML developer guide: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
+    * All HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+    * HTML tag cheatsheet: http://www.simplehtmlguide.com/cheatsheet.php
+    * All HTML attributes for the tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+    * CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 
 
 ###Week 2
