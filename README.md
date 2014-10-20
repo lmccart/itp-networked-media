@@ -33,7 +33,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ##Syllabus
 
-###Week 1: Intro, HTML, CSS, client-server
+###Week 1 (10/28): Intro, HTML, CSS, client-server
 
 * Getting started
   * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
@@ -42,8 +42,8 @@ Class will culminate final projects. You are expected to push your abilities to 
   * To write HTML, one of the first things you will need is a text editor. Most operating systems come with this capability built-in (TextEdit on the Mac and Notepad on Windows). While these applications work fine, you will likely find it useful to use a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/), which have line numbering, syntax coloring and other helpful features.
 
 * HTML and CSS
-  * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
-  * [Intro to CSS]()
+  * [Intro to HTML](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-HTML)
+  * [Intro to CSS](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-CSS)
   * **Reference:**
     * Mozilla HTML developer guide: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
     * All HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
@@ -51,6 +51,7 @@ Class will culminate final projects. You are expected to push your abilities to 
     * All HTML attributes for the tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
     * CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 
+* [Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)
 
 
 ###Week 2
