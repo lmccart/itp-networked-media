@@ -35,13 +35,13 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 1 (10/28): Intro, HTML, CSS, client-server
 
-Getting started
+**Getting started**
  * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
  * [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
  * [Tutorial: setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
  * To write HTML, one of the first things you will need is a text editor. Most operating systems come with this capability built-in (TextEdit on the Mac and Notepad on Windows). While these applications work fine, you will likely find it useful to use a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/), which have line numbering, syntax coloring and other helpful features.
 
-HTML and CSS
+**HTML and CSS**
  * [Intro to HTML](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-HTML)
  * [Intro to CSS](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-CSS)
  * **Reference:**
@@ -51,7 +51,7 @@ HTML and CSS
   * All HTML attributes for the tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
   * CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)
+**[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
 
 ###Week 2
