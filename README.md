@@ -31,19 +31,19 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 1 (10/28): Intro, HTML, CSS, client-server
 
-####Getting started
+**Getting started**
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
 * Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
 * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
 
-####HTML and CSS
+**HTML and CSS**
 * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 
-####Server setup
+**Server setup**
 * [Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
 * [Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
 
-####[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
+**[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
 
 ###Week 2
