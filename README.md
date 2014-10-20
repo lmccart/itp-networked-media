@@ -35,7 +35,8 @@ Class will culminate final projects. You are expected to push your abilities to 
  * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
  * [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
  * [Tutorial: setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
- * To write HTML, one of the first things you will need is a text editor. Most operating systems come with this capability built-in (TextEdit on the Mac and Notepad on Windows). While these applications work fine, you will likely find it useful to use a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/), which have line numbering, syntax coloring and other helpful features.
+ * Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
+ * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands
 
 **HTML and CSS**
  * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
@@ -46,6 +47,8 @@ Class will culminate final projects. You are expected to push your abilities to 
   * HTML tag cheatsheet: http://www.simplehtmlguide.com/cheatsheet.php
   * All HTML attributes for the tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
   * CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+  * [Lynda.com HTML essentials](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
+  * [Lynda.com CSS fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)
 
 **[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
@@ -83,6 +86,13 @@ Final project presentations
 
 
 ##Resources
+
+###Lynda.com
+
+For step-by-step tutorials, we have access to Lynda.com training courses via the NYU Library. If you're new to HTML and/or CSS, I highly recommend watching these.
+
+Request a Lynda.com account at http://nyu.libguides.com/digitalstudio/appointments (It’s in the "Make an Appointment" form, but you don’t actually make an appointment.) On the form, check "Instructional Video Modules". It may take a day or two to get approved.
+
 
 ###p5.js
 * [p5.js reference](http://p5js.org/reference)
