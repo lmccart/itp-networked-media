@@ -39,8 +39,7 @@ Class will culminate final projects. You are expected to push your abilities to 
  * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
 
 **HTML and CSS**
- * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
- * [Intro to CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS)
+ * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
  * **Reference:**
   * [Mozilla HTML guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [HTML tag cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
