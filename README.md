@@ -37,7 +37,6 @@ Class will culminate final projects. You are expected to push your abilities to 
 * Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
 * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
 * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
- 
 *[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)
 
 
