@@ -33,10 +33,10 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 **Getting started**
  * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
- * [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
- * [Tutorial: setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
+ * [Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
+ * [Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
  * Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
- * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. [basic unix commands tutorial](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands)
+ * We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. [Basic unix commands tutorial](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
 
 **HTML and CSS**
  * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
