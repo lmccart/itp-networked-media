@@ -42,11 +42,10 @@ Class will culminate final projects. You are expected to push your abilities to 
  * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
  * [Intro to CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS)
  * **Reference:**
-  * Mozilla HTML developer guide: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
-  * All HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-  * HTML tag cheatsheet: http://www.simplehtmlguide.com/cheatsheet.php
-  * All HTML attributes for the tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-  * CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+  * [Mozilla HTML guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [HTML tag cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
+  * [HTML tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  * [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [Lynda.com HTML essentials](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
   * [Lynda.com CSS fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)
 
