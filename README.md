@@ -5,13 +5,9 @@ __Repository for ITP Comm Lab: Networked Media, Fall 2014__
 
 The network is one of our most fundamental mediums for interactivity. It makes possible our interaction with machines, data, and, most importantly, other people. Though the base interaction it supports is simple, a client sends a request to a server, which replies; an incredible variety of systems can be and have been built on top of it. In this course, students will utilize JavaScript as both a client and server side programming language to build creative network systems. Additionally, HTML and CSS will be used to define the structure and look. 
 
-
-##Listserv
-
-This class is very participatory in nature and discussions will certainly take place outside of the classroom. One of the primary vehicles for these discussions (as well as administrative issues) will be the listserv / google group:
-
-https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia
-
+* [Networked media google group](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/networkedmedia)
+* [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy)
+* [Resident office hours](https://itp.nyu.edu/inwiki/)
 
 ##Evaluation
 
@@ -42,8 +38,8 @@ Class will culminate final projects. You are expected to push your abilities to 
  * To write HTML, one of the first things you will need is a text editor. Most operating systems come with this capability built-in (TextEdit on the Mac and Notepad on Windows). While these applications work fine, you will likely find it useful to use a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/), which have line numbering, syntax coloring and other helpful features.
 
 **HTML and CSS**
- * [Intro to HTML](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-HTML)
- * [Intro to CSS](https://github.com/lmccart/itp-networked-media/wiki/Intro-to-CSS)
+ * [Intro to HTML](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
+ * [Intro to CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS)
  * **Reference:**
   * Mozilla HTML developer guide: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
   * All HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
@@ -84,10 +80,6 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 Final project presentations
 
-
-##Office hours
-* [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy)
-* [Resident office hours](https://itp.nyu.edu/inwiki/)
 
 
 ##Resources
