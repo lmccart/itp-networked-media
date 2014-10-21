@@ -46,33 +46,33 @@ Class will culminate final projects. You are expected to push your abilities to 
 **[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
 
-###Week 2
+###Week 2 (11/4)
 
 * [JavaScript basics](https://github.com/lmccart/p5.js/wiki/JavaScript-basics)
 * JavaScript basics with p5.js
 
-###Week 3
+###Week 3 (11/11)
 
 * HTML and CSS continued
 * JavaScript events - manipulating the Document Object Model
 
-###Week 4
+###Week 4 (11/18)
 
 * HTML forms
 * Web services: AJAX and JSON
 
-###Week 5
+###Week 5 (11/25)
 
 * Server-side JavaScript writing basic HTTP servers with Servi and Node.js
 * Data storage
 * Query strings, GET vs. POST
 
-###Week 6
+###Week 6 (12/2)
 
 * WebSockets realtime interaction in the browser
 * Serial interfacing with the Arduino 
 
-###Week 7
+###Week 7 (12/9)
 
 Final project presentations
 
