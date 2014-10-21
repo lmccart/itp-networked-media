@@ -47,7 +47,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 2
 
-* Programming in JavaScript 
+* [JavaScript basics](https://github.com/lmccart/p5.js/wiki/JavaScript-basics)
 * JavaScript basics with p5.js
 
 ###Week 3
