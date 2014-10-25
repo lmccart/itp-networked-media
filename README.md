@@ -80,13 +80,6 @@ Final project presentations
 
 ##Resources
 
-###Lynda.com
-
-For step-by-step tutorials, we have access to Lynda.com training courses via the NYU Library. If you're new to HTML and/or CSS, I highly recommend watching these.
-
-Request a Lynda.com account at http://nyu.libguides.com/digitalstudio/appointments (It’s in the "Make an Appointment" form, but you don’t actually make an appointment.) On the form, check "Instructional Video Modules". It may take a day or two to get approved.
-
-
 ###p5.js
 * [p5.js reference](http://p5js.org/reference)
 * [p5.js forum](http://forum.processing.org/two/)
@@ -109,6 +102,10 @@ Request a Lynda.com account at http://nyu.libguides.com/digitalstudio/appointmen
 * [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932), Paul Wilton and Jeremy McPeak
 * [HTML & CSS book](http://www.htmlandcssbook.com/)
 * [JavaScript book](http://www.javascriptbook.com/)
+
+###General
+* http://www.nyu.edu/lynda - lots of great tutorials here. Log in with your normal nyu net-id/password for full access.
+* [CodeAcademy](http://www.codecademy.com/)
 
 ###Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
