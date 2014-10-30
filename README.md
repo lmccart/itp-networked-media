@@ -11,6 +11,7 @@ The network is one of our most fundamental mediums for interactivity. It makes p
 * [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy)
 * [Resident office hours](https://itp.nyu.edu/inwiki/)
 * [Assignments page](https://github.com/lmccart/itp-networked-media/wiki/Assignments)
+* [Inspiration page](https://github.com/lmccart/itp-networked-media/wiki/Networked-inspiration)
 
 ##Evaluation
 
