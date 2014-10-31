@@ -36,18 +36,24 @@ Class will culminate final projects. You are expected to push your abilities to 
 ###Week 1 (10/28): Intro, HTML, CSS, client-server
 
 **Getting started**
-* [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
-* [Digital Ocean referral](https://www.digitalocean.com/?refcode=4d83915eeae0)
-* Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
-* Download an FTP client like [Cyberduck](https://cyberduck.io/?l=en), [Filezilla](https://filezilla-project.org/), [Fetch - mac only](http://fetchsoftworks.com/), etc.
-* [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
-* Download [servi](https://github.com/antiboredom/servi.js/releases).
+
+1. Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
+
+2. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
+
+3. Download [servi](https://github.com/antiboredom/servi.js/releases).
 
 **[Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)**
 
 **Server setup**
-* [Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi)
-* [Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up)
+
+1. Sign up for Digital Ocean, you can use this [referral code](https://www.digitalocean.com/?refcode=4d83915eeae0) or the code from the [Github student developer pack](https://education.github.com/pack).
+
+2. Download an FTP client like [Cyberduck](https://cyberduck.io/?l=en), [Filezilla](https://filezilla-project.org/), [Fetch - mac only](http://fetchsoftworks.com/), etc.
+
+3. [Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up) - Follow the steps to create an account, a new droplet, and connect with Cyberduck.
+
+4. [Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - - Create a basic file server using these instructions. Upload your files to your Digital Ocean account via Cyberduck.
 
 **[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
