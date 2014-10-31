@@ -35,15 +35,13 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 1 (10/28): Intro, HTML, CSS, client-server
 
-**Getting started**
+
+
+**Intro to HTML and CSS**
 
 1. Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
-
-2. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
-
-3. Download [servi](https://github.com/antiboredom/servi.js/releases).
-
-**[Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)**
+ 
+2. [Notes: Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)**
 
 **Server setup**
 
@@ -51,9 +49,11 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 2. Download an FTP client like [Cyberduck](https://cyberduck.io/?l=en), [Filezilla](https://filezilla-project.org/), [Fetch - mac only](http://fetchsoftworks.com/), etc.
 
-3. [Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up) - Follow the steps to create an account, a new droplet, and connect with Cyberduck.
+3. Download [servi](https://github.com/antiboredom/servi.js/releases).
 
-4. [Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - - Create a basic file server using these instructions. Upload your files to your Digital Ocean account via Cyberduck.
+4. [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up) - Follow the steps to create an account, a new droplet, and connect with Cyberduck.
+
+5. [Tutorial: Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - Create a basic file server using these instructions. Upload your files to your Digital Ocean account via Cyberduck.
 
 **[Assignment 1 (DUE 11/4)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-1-due-114)**
 
@@ -130,6 +130,7 @@ Final project presentations
 
 ###Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
+* [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
 * Browser debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Mobile debugging [jsconsole.com](http://jsconsole.com)
