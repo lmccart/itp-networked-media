@@ -41,7 +41,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 1. Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
  
-2. [Notes: Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)**
+2. [Notes: Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 
 **Server setup**
 
