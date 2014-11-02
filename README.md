@@ -41,7 +41,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 1. Download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
  
-2. [Notes: Intro to HTML and beginning CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML)
+2. [Notes: Intro to HTML and beginning CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
 
 **Server setup**
 
@@ -81,7 +81,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 3 (11/11)
 
-1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS) - Create an external stylesheet and layout an HTML page.
+1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS#css) - Create an external stylesheet and layout an HTML page.
 
 2. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
 
