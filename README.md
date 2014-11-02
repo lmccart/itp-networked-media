@@ -69,8 +69,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 2. Check out [Getting started with p5.js](http://p5js.org/get-started/)
 3. Convert a sketch, see [Processing <> p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition)
 4. Look through the [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples).
-
-* [FYI: HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+5. FYI (OPTIONAL): [HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 **[Assignment 2 (DUE 11/11)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-2-due-1111)**
 
