@@ -81,11 +81,13 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 3 (11/11)
 
-1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS)
-2. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events)
-3. 
+1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-CSS) - Create an external stylesheet and layout an HTML page.
 
-**[Assignment 2 (DUE 11/11)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-2-due-1111)**
+2. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
+
+3. [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
+
+**[Assignment 3 (DUE 11/18)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-3-due-1118)**
 
 
 ###Week 4 (11/18)
