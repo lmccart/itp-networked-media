@@ -66,10 +66,14 @@ Class will culminate final projects. You are expected to push your abilities to 
 **Intro to p5.js and canvas**
 
 1. [Download p5.js](http://p5js.org/download/). The download comes with a copy of p5.js, you can also use a statically hosted version from the [CDN](http://cdnjs.com/libraries/p5.js), more info on that [here](http://p5js.org/get-started/#file-setup).
-2. Check out [Getting started with p5.js](http://p5js.org/get-started/)
-3. Convert a sketch, see [Processing <> p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition)
-4. Look through the [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples).
-5. FYI (OPTIONAL): [HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
+2. [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - set up your files for editing and viewing.
+
+3. [Processing <> p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition) - learn to convert a sketch from Processing to p5.js.
+
+4. [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples) - look through and get comfortable with the p5.js functionality.
+
+5. FYI (OPTIONAL): [HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - see how canvas drawing is done in plain JS without using p5.js.
 
 **[Assignment 2 (DUE 11/11)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-2-due-1111)**
 
