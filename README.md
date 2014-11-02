@@ -64,6 +64,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 * [Notes: JS basics](https://github.com/lmccart/p5.js/wiki/JavaScript-basics)
 
 **Intro to p5.js and canvas**
+
 1. [Download p5.js](http://p5js.org/download/). The download comes with a copy of p5.js, you can also use a statically hosted version from the [CDN](http://cdnjs.com/libraries/p5.js), more info on that [here](http://p5js.org/get-started/#file-setup).
 2. Check out [Getting started with p5.js](http://p5js.org/get-started/)
 3. Convert a sketch, see [Processing <> p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition)
