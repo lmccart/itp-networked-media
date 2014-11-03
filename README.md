@@ -65,6 +65,8 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 **Intro to p5.js and canvas**
 
+0. [Installing forever](http://www.hacksparrow.com/keep-node-js-script-running-after-logging-out-from-shell.html) - The default behavior of Node is to kill the script when you log out of ssh or quit Terminal. That's fine for short-term use, but to keep your web site up and persistent, install forever.
+
 1. [Download p5.js](http://p5js.org/download/). The download comes with a copy of p5.js, you can also use a statically hosted version from the [CDN](http://cdnjs.com/libraries/p5.js), more info on that [here](http://p5js.org/get-started/#file-setup).
 
 2. [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
@@ -73,7 +75,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 4. [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples) - Look through and get comfortable with the p5.js functionality.
 
-5. FYI (optional): [HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - See how canvas drawing is done in plain JS without using p5.js.
+5. (Optional) [FYI: HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - See how canvas drawing is done in plain JS without using p5.js.
 
 **[Assignment 2 (DUE 11/11)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-2-due-1111)**
 
