@@ -94,8 +94,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 4 (11/18)
 
-* HTML forms
-* Web services: AJAX and JSON
+1. [Web services: AJAX, JSON, and XML](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
 ###Week 5 (11/25)
 
