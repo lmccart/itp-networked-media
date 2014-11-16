@@ -79,21 +79,19 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 **[Assignment 2 (DUE 11/11)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-2-due-1111)**
 
-
-
 ###Week 3 (11/11)
 
-0. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS#css) - Create an external stylesheet and layout an HTML page.
+0. [Notes: Objects and Arrays](https://github.com/lmccart/p5.js/wiki/JavaScript-basics#arrays)
+  * Array examples
+  * Objects examples
 
-1. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
-  * [Reference for all DOM events](https://developer.mozilla.org/en-US/docs/Web/Events)
-  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_dom_pure_js)
+1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS#css) - Create an external stylesheet and layout an HTML page.
 
-2. [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
+2. (Optional) [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
   * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
   * [p5.dom.js examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/04_dom_p5)
 
-3. [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
+3. (Optional) [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
   * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week3/03_dom_jquery/sketch.js)
 
 
@@ -102,19 +100,23 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 4 (11/18)
 
+1. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
+  * [Reference for all DOM events](https://developer.mozilla.org/en-US/docs/Web/Events)
+  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_dom_pure_js)
+
+
+###Week 5 (11/25)
+
 1. (Setting up a servi.js project without the servi editor)[https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor]
 2. [Web services: AJAX, JSON, and XML](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
-###Week 5 (11/25)
+
+###Week 6 (12/2)
+
 
 * Server-side JavaScript writing basic HTTP servers with Servi and Node.js
 * Data storage
 * Query strings, GET vs. POST
-
-###Week 6 (12/2)
-
-* WebSockets realtime interaction in the browser
-* Serial interfacing with the Arduino 
 
 ###Week 7 (12/9)
 
