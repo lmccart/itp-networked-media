@@ -116,7 +116,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 ###Week 5 (11/25)
 
-1. (Setting up a servi.js project without the servi editor)[https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor]
+1. [Setting up a servi.js project without the servi editor](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor)
 2. [Web services: AJAX, JSON, and XML](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
 
