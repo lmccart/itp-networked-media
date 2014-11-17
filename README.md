@@ -54,6 +54,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 4. [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up) - Follow the steps to create an account, a new droplet, and connect with Cyberduck.
 
 5. [Tutorial: Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - Create a basic file server using these instructions. Upload your files to your Digital Ocean account via Cyberduck.
+  * [Basic servi server example](https://github.com/lmccart/itp-networked-media/tree/master/week1/02_servi_serve_static)
 
 6. [Installing forever](http://www.hacksparrow.com/keep-node-js-script-running-after-logging-out-from-shell.html) - The default behavior of Node is to kill the script when you log out of ssh or quit Terminal. That's fine for short-term use, but to keep your web site up and persistent, install forever.
 
@@ -72,8 +73,9 @@ Class will culminate final projects. You are expected to push your abilities to 
 2. [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
 
 3. [Processing ~ p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition) - Learn to convert a sketch from Processing to p5.js.
-
-4. [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples) - Look through and get comfortable with the p5.js functionality.
+  * [p5.js in-class examples](https://github.com/lmccart/itp-networked-media/tree/master/week2)
+  * [More p5.js examples](http://p5js.org/learn/#examples)
+  * [p5.js reference](http://p5js.org/reference/)
 
 5. (Optional) [FYI: HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - See how canvas drawing is done in plain JS without using p5.js.
 
@@ -82,10 +84,11 @@ Class will culminate final projects. You are expected to push your abilities to 
 ###Week 3 (11/11)
 
 0. [Notes: Objects and Arrays](https://github.com/lmccart/p5.js/wiki/JavaScript-basics#arrays)
-  * Array examples
-  * Objects examples
+  * [Array examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/01_arrays)
+  * [Objects examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_objects)
 
 1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS#css) - Create an external stylesheet and layout an HTML page.
+  * [CSS examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/03_css)
 
 2. (Optional) [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
   * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
@@ -102,8 +105,14 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 1. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
   * [Reference for all DOM events](https://developer.mozilla.org/en-US/docs/Web/Events)
-  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_dom_pure_js)
+  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week4/01_dom_pure_js)
 
+2. [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
+  * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
+  * [p5.dom.js examples](https://github.com/lmccart/itp-networked-media/tree/master/week4/02_dom_p5)
+
+3. [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
+  * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week4/03_dom_jquery/sketch.js)
 
 ###Week 5 (11/25)
 
