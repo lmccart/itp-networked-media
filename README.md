@@ -114,6 +114,9 @@ Class will culminate final projects. You are expected to push your abilities to 
 3. [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
   * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week4/03_dom_jquery/sketch.js)
 
+
+**[Assignment 4 (DUE 11/25)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-4-due-1125)**
+
 ###Week 5 (11/25)
 
 1. [Setting up a servi.js project without the servi editor](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor)
