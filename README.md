@@ -54,6 +54,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 4. [Tutorial: Digital Ocean setup](https://github.com/robynitp/networkedmedia/wiki/Digital-Ocean-Set-up) - Follow the steps to create an account, a new droplet, and connect with Cyberduck.
 
 5. [Tutorial: Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - Create a basic file server using these instructions. Upload your files to your Digital Ocean account via Cyberduck.
+  * [Basic servi server example](https://github.com/lmccart/itp-networked-media/tree/master/week1/02_servi_serve_static)
 
 6. [Installing forever](http://www.hacksparrow.com/keep-node-js-script-running-after-logging-out-from-shell.html) - The default behavior of Node is to kill the script when you log out of ssh or quit Terminal. That's fine for short-term use, but to keep your web site up and persistent, install forever.
 
@@ -72,8 +73,9 @@ Class will culminate final projects. You are expected to push your abilities to 
 2. [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
 
 3. [Processing ~ p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition) - Learn to convert a sketch from Processing to p5.js.
-
-4. [p5.js reference](http://p5js.org/reference/) and [examples](http://p5js.org/learn/#examples) - Look through and get comfortable with the p5.js functionality.
+  * [p5.js in-class examples](https://github.com/lmccart/itp-networked-media/tree/master/week2)
+  * [More p5.js examples](http://p5js.org/learn/#examples)
+  * [p5.js reference](http://p5js.org/reference/)
 
 5. (Optional) [FYI: HTML5Canvas without p5.js](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - See how canvas drawing is done in plain JS without using p5.js.
 
@@ -82,10 +84,11 @@ Class will culminate final projects. You are expected to push your abilities to 
 ###Week 3 (11/11)
 
 0. [Notes: Objects and Arrays](https://github.com/lmccart/p5.js/wiki/JavaScript-basics#arrays)
-  * Array examples
-  * Objects examples
+  * [Array examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/01_arrays)
+  * [Objects examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_objects)
 
 1. [Notes: Intro to CSS and layouts](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS#css) - Create an external stylesheet and layout an HTML page.
+  * [CSS examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/03_css)
 
 2. (Optional) [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
   * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
@@ -102,12 +105,37 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 1. [Notes: Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
   * [Reference for all DOM events](https://developer.mozilla.org/en-US/docs/Web/Events)
-  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week3/02_dom_pure_js)
+  * [DOM manipulation with no libraries examples](https://github.com/lmccart/itp-networked-media/tree/master/week4/01_dom_pure_js)
 
+2. [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
+  * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
+  * [p5.dom.js examples](https://github.com/lmccart/itp-networked-media/tree/master/week4/02_dom_p5)
+
+3. [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
+  * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week4/03_dom_jquery/sketch.js)
+
+
+**Examples on jsfiddle.net**
+
+Along with the code in this repo, Robyn put a few examples on [jsfiddle.net](http://jsfiddle.net) so you can play around with them live.
+- Accessing the DOM [jsfiddle]( http://jsfiddle.net/rover/9d4t2vc7/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/dom_basics.html)
+- Dynamically create DOM elements [jsfiddle](  http://jsfiddle.net/rover/5pw0bumx/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/create_dom_dynamic.html)
+- Mouse listener [jsfiddle]( http://jsfiddle.net/rover/h89f5c8d/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/mouse_listener.html)
+- Keyboard listener [jsfiddle]( http://jsfiddle.net/rover/3jK9h/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/keyboard_listener.html) (*Note: uses a [switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)*)
+- Button listener [jsfiddle]( http://jsfiddle.net/rover/hakz7hw5/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/button_listener.html)
+- Add DOM elements with a button [jsfiddle]( http://jsfiddle.net/rover/rj9s62yw/)
+
+*p5.dom*
+- p5.dom with Canvas [jsfiddle](http://jsfiddle.net/rover/0r7ydo1s/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/p5_dom/14a_canvas_p5_dom/) (*This is possible in jsfiddle by using the [hosted versions](http://cdnjs.com/libraries/p5.js) of p5.js and p5.dom.js in the "External Resources" area on the right sidebar in jsfiddle*)
+
+For a walk-through of how to use jsFiddle, see the [official tutorial](http://doc.jsfiddle.net/tutorial.html). Note that the tutorial uses the MooTools library, which you won't need for my examples.
+
+
+**[Assignment 4 (DUE 11/25)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-4-due-1125)**
 
 ###Week 5 (11/25)
 
-1. (Setting up a servi.js project without the servi editor)[https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor]
+1. [Setting up a servi.js project without the servi editor](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor)
 2. [Web services: AJAX, JSON, and XML](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
 
