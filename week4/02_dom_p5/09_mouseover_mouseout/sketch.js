@@ -34,7 +34,7 @@ function setup() {
 
 // A simple animation
 function draw() {
-  background(51);
+  background(51, 50);
   stroke(255);
   line(frameCount % width, 0, frameCount % width, height);
 }
