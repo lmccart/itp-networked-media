@@ -97,6 +97,9 @@ Class will culminate final projects. You are expected to push your abilities to 
 3. (Optional) [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
   * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week3/03_dom_jquery/sketch.js)
 
+4. Running a local server. If you are doing things like loading images, working with webcam, or interfacing with other external files or inputs, you will need to run a local server to view the HTML and JS files you are editing. Here are two methods:
+  * [SimpleHTTPServer](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+  * [node server with servi.js](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor) - If you already have a folder with a servi project in it, you can skip to just put your HTML/JS/CSS files in the public/ folder and skip to step 5.
 
 **[Assignment 3 (DUE 11/18)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-3-due-1118)**
 
@@ -114,22 +117,7 @@ Class will culminate final projects. You are expected to push your abilities to 
 3. [JQuery](http://jquery.com/) is (probably the most) popular JS Library for client-side stuff.  We won't use it much in our examples, but it's work examining and thinking about.
   * [Quick and dirty hello world DOM manipulation with JQuery](https://github.com/lmccart/itp-networked-media/blob/master/week4/03_dom_jquery/sketch.js)
 
-
-**Examples on jsfiddle.net**
-
-Along with the code in this repo, Robyn put a few examples on [jsfiddle.net](http://jsfiddle.net) so you can play around with them live.
-- Accessing the DOM [jsfiddle]( http://jsfiddle.net/rover/9d4t2vc7/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/dom_basics.html)
-- Dynamically create DOM elements [jsfiddle](  http://jsfiddle.net/rover/5pw0bumx/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/create_dom_dynamic.html)
-- Mouse listener [jsfiddle]( http://jsfiddle.net/rover/h89f5c8d/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/mouse_listener.html)
-- Keyboard listener [jsfiddle]( http://jsfiddle.net/rover/3jK9h/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/keyboard_listener.html) (*Note: uses a [switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)*)
-- Button listener [jsfiddle]( http://jsfiddle.net/rover/hakz7hw5/) | [github](https://github.com/robynitp/networkedmedia/blob/master/6-listeners/button_listener.html)
-- Add DOM elements with a button [jsfiddle]( http://jsfiddle.net/rover/rj9s62yw/)
-
-*p5.dom*
-- p5.dom with Canvas [jsfiddle](http://jsfiddle.net/rover/0r7ydo1s/) | [github](https://github.com/robynitp/networkedmedia/blob/master/5-dom/p5_dom/14a_canvas_p5_dom/) (*This is possible in jsfiddle by using the [hosted versions](http://cdnjs.com/libraries/p5.js) of p5.js and p5.dom.js in the "External Resources" area on the right sidebar in jsfiddle*)
-
-For a walk-through of how to use jsFiddle, see the [official tutorial](http://doc.jsfiddle.net/tutorial.html). Note that the tutorial uses the MooTools library, which you won't need for my examples.
-
+4. In addition to the ones in week4/ there are more examples [here](https://github.com/robynitp/networkedmedia/wiki/Week-3-Notes#dom-manipulation-and-event-listeners).
 
 **[Assignment 4 (DUE 11/25)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#assignment-4-due-1125)**
 
