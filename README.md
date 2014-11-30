@@ -135,12 +135,11 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 **[Final Project (DUE 12/9)](https://github.com/lmccart/itp-networked-media/wiki/Assignments#final-project-due-129)**
 
-###Week 6 (12/2)
+###Week 6 (12/2): Server-side JS
 
-
-* Server-side JavaScript writing basic HTTP servers with Servi and Node.js
-* Data storage
-* Query strings, GET vs. POST
+1. [Tutorial: creating a servi server](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor)
+2. [Notes: server-side with Servi](https://github.com/robynitp/networkedmedia/wiki/Week-5-Notes)
+  * [Servi examples](https://github.com/lmccart/itp-creative-js/tree/master/week6/)
 
 ###Week 7 (12/9)
 
