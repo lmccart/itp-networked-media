@@ -1,9 +1,18 @@
-var servi = require('servi');
+// adapted from https://github.com/robynitp/networkedmedia
+
+
+// every servi application must have these 2 lines
+var servi = require("servi");
 var app = new servi(true);
+
+// set the port (defaults to 3000 if you leave out this line)
+port(3001);
+
 
 // set up a database
 // looks for a file called "people.db" or creates one if it doesn't exist
 var namesDB = useDatabase("people"); 
+
 
 // set up the routes
 route('/', showAll);
@@ -24,15 +33,16 @@ route('/add/:person',addName);
 	   In this example, 'request.params.person' is equal to 'Jane'
 */
 function addName(request){
-	namesDB.add({name:request.params.person});
-	request.respond("Added "+request.params.person);
+	var personName = request.params.person;
+	namesDB.add({name:personName});
+	request.respond("Added "+personName);
 }
 
 // show all the names
 function showAll(request){
 	namesDB.getAll(gotNames);
 	function gotNames(names){
-		namestext = "";
+		var namestext = "";
 		for (i =0; i < names.length; i++) {
 		    namestext += names[i].name + "<br/>";
 		}
