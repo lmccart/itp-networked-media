@@ -1,43 +1,18 @@
+// every servi application must have these 2 lines
 var servi = require('servi');
-
 var app = new servi(true);
 
-port(8080);
+// set the port (defaults to 3000 if you leave out this line)
+port(3001);
 
-
-var data = {
-  firstName: "John",
-  lastName: "Smith",
-  age: 25,
-  address: {
-    streetAddress: "21 2nd Street",
-    city: "New York",
-    state: "NY",
-    postalCode: "10021"
-  },
-  phoneNumber: [
-    {
-      type: "home",
-      number: "212 555-1234"
-    },
-    {
-      type: "fax",
-      number: "646 555-4567"
-    }
-  ],
-  gender:{
-    type:"male"
-  }
-};
-
+// tell the server to response with "Hello World"
 function run(request) {
-
-  request.header("application/json");
-  request.respond(JSON.stringify(data));
+  request.respond("Hello World ");
 }
 
+// tell the server to run the "run" function on main url request
+route('/',run);
 
-if (typeof run === 'function') {
-  app.defaultRoute(run);
-}
+
+// start the server
 start();
