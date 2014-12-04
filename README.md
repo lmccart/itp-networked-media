@@ -175,6 +175,7 @@ Final project presentations
 ###General
 * http://www.nyu.edu/lynda - lots of great tutorials here. Log in with your normal nyu net-id/password for full access.
 * [CodeAcademy](http://www.codecademy.com/)
+* [Flat Iron School](http://prework.flatironschool.com/web-development/)
 
 ###Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
