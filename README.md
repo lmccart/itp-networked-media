@@ -139,7 +139,8 @@ Class will culminate final projects. You are expected to push your abilities to 
 
 1. [Tutorial: creating a servi server](https://github.com/antiboredom/servi.js/wiki/Setting-up-a-servi.js-project-without-the-servi-editor)
 2. [Notes: server-side with Servi](https://github.com/robynitp/networkedmedia/wiki/Week-5-Notes)
-  * [Servi examples](https://github.com/lmccart/itp-creative-js/tree/master/week6/)
+  * [Servi examples](https://github.com/lmccart/itp-networked-media/tree/master/week6/)
+  * [Servi reference](https://github.com/antiboredom/servi.js/wiki)
 
 ###Week 7 (12/9)
 
