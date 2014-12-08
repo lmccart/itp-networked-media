@@ -33,7 +33,9 @@ function addPos(request) {
   // add to database
   db.add({x: xval, y: yval });
 
-  request.respond(true); // do I need this?
+  // just respond something, to close the connection
+  // I chose "true" to indicate success
+  request.respond(true);
  
 }
 
